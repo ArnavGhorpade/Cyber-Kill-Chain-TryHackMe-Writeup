@@ -95,3 +95,5 @@ Originally developed by Lockheed Martin in 2011, the Cyber Kill Chain maps out t
 ## Usage
 
 This writeup serves as a quick reference for studying Cyber Kill Chain phases or building detection capabilities in a Blue Team/SOC environment.
+
+> ![Screenshot of THM Flag from Practice Analysis](image1.png)
